@@ -2,7 +2,7 @@
 
 | Name     | Rank     | Host     |
 | -------- | -------- | -------- |
-| ARA CTF   | 4       | ITS      |
+| ARA CTF   | 4       | Institut Teknologi Sepuluh November      |
 | Cell 3   | Cell 4   |
 
 # CTF-Writeups
